@@ -11,8 +11,8 @@
  color: #ffffff;
 }</style>
 
-<p class=text>This blog utilizes GitHub repos of Jupyter Notebooks, deployed using Binder and displayed with Voila.</p>
-<p class=text>Thanks for being patient with links while Binder builds, launches, and connects you to a container for the repo.</p>
+<p class=text font-size: 2vw>This blog utilizes GitHub repos of Jupyter Notebooks, deployed using Binder and displayed with Voila.</p>
+<p class=text font-size: 2vw>Thanks for being patient with links while Binder builds, launches, and connects you to a container for the repo.</p>
 
 <ul style=list-style-type:none>
 <li><a class=text style=text-decoration:none  href="https://mybinder.org/v2/gh/TimVannerson/test-notebook-blog/HEAD?urlpath=voila%2Frender%2Findex.ipynb">>>>Test Binder</a></li>
