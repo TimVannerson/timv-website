@@ -11,8 +11,9 @@
  color: #ffffff;
 }</style>
 
-<ul style=list-style-type:none
-<li class=text>>>>Under construction</li>
+<ul style=list-style-type:none>
+<li><a class=text style=text-decoration:none  href="https://mybinder.org/v2/gh/TimVannerson/test-notebook-blog/HEAD?urlpath=voila%2Frender%2Findex.ipynb">>>>Test Binder</a></li>
+<li class=text>>>></li>
 </ul>
 
 </body>
