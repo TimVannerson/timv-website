@@ -15,7 +15,7 @@
 <p class=text font-size: 2vw>Thanks for being patient with links while Notebooks are deployed, executed, and rendered.</p>
 
 <ul style=list-style-type:none>
-<li><a class=text style=text-decoration:none  href="https://mybinder.org/v2/gh/TimVannerson/test-notebook-blog/HEAD?urlpath=voila%2Frender%2Findex.ipynb">>>>Test Binder</a></li>
+<li><a class=text style=text-decoration:none  href="https://mybinder.org/v2/gh/TimVannerson/notebook-blog-template/HEAD?urlpath=voila%2Frender%2Findex.ipynb">>>>Test Binder</a></li>
 <li class=text>>>></li>
 </ul>
 
