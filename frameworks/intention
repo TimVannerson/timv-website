@@ -1,1 +1,16 @@
-**TBD On Intention
+!DOCTYPE html>
+<html>
+<head>
+<title>On Intention</title>
+</head>
+
+<body style=background-color:#262626>
+<style>.text {
+ font-family: "Courier New", monospace, Sans-Serif;
+ font-size: 2vmax;
+ color: #ffffff;
+}</style>
+
+<p class=text>
+**TBD on intention
+</p>
