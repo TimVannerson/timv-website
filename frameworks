@@ -11,12 +11,12 @@
  color: #ffffff;
 }</style>
 
-<p class=text font-size: 5vw>Whether you call them frameworks, mental models, heuristics, protocols, principles, or something else, most of us have a set of cognitive shortcuts we rely on, either consciously or otherwise.  </p>
-<p class=text font-size: 5vw>I believe that by intentionally bringing awareness to our own mental models, constantly curating them, and reflecting on when/how they differ from others, we will be more effective and less conflicted in our day-to-day lives. </p>
-<p class=text font-size: 5vw>I also believe that being transparent about our convictions gives us the best opportunity to improve both our principles and hopefully others' as well. Have thoughts on any of these? <a class=text href="mailto:sayhello@timvannerson.com">Drop me a note</a>! I'd love to hear from you. </p>
+<p class=text font-size: 2vw>Whether you call them frameworks, mental models, heuristics, protocols, principles, or something else, most of us have a set of cognitive shortcuts we rely on, either consciously or otherwise.  </p>
+<p class=text font-size: 2vw>I believe that by intentionally bringing awareness to our own mental models, constantly curating them, and reflecting on when/how they differ from others, we will be more effective and less conflicted in our day-to-day lives. </p>
+<p class=text font-size: 2vw>I also believe that being transparent about our convictions gives us the best opportunity to improve both our principles and hopefully others' as well. Have thoughts on any of these? <a class=text href="mailto:sayhello@timvannerson.com">Drop me a note</a>! I'd love to hear from you. </p>
 
 <ul style=list-style-type:none>
-<li>>>>On Intention</li>
+<li class=text>>>><a class=text href="intention">On Intention</a></li>
 <li class=text>>>></li>
 </ul>
 
